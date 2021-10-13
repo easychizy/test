@@ -21,3 +21,4 @@ apt-get install -y intel-opencl-icd intel-level-zero-gpu level-zero
 apt-get install -y libdrm-dev libva-dev intel-media-va-driver-non-free libmfx1 intel-oneapi-onevpl-devel libmfxgen1
 # These are optional for development
 apt-get install -y libigc-dev intel-igc-cm libigdfcl-dev libigfxcmrt-dev level-zero-dev
+apt install -y pkg-config
