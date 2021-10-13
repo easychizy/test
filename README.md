@@ -9,5 +9,4 @@
 * Set environments
 `source /opt/intel/oneapi/setvars.sh`
 * Run samples
-`cd bin`
-`./sample_decode h265 -i ../examples/content/cars_128x96.h265`
+`cd bin \n./sample_decode h265 -i ../examples/content/cars_128x96.h265`
