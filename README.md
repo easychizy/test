@@ -4,8 +4,8 @@
 
 # Execution:
 * Start Docker
-'docker build -t onevpl1'
-'docker run --privileged -it onevpl1'
+`docker build -t onevpl1`
+`docker run --privileged -it onevpl1`
 * Set environments
 `source /opt/intel/oneapi/setvars.sh`
 * Run samples
